@@ -96,13 +96,9 @@ Se a chave não estiver configurada, a geração de dados funciona normalmente. 
 
 A notícia só pode ser gerada depois de os dados serem criados.
 
-## Apresentação
-
-Vídeo de apresentação do projeto: [youtube.com/watch?v=0_chL_33_1c](https://www.youtube.com/watch?v=0_chL_33_1c)
-
-Observação: a gravação de tela foi refeita e sobreposta ao áudio, portanto os dois não estão totalmente sincronizados.
-
 ## Integrantes
 
 <!-- Adicione aqui os demais integrantes do grupo -->
 - Samuel Rodrigues
+- Samuel Pacanaro
+- Gustavo Araujo
